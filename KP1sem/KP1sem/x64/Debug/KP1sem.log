@@ -1,0 +1,12 @@
+﻿  Kyrsovoi_proect_Pivovarova_AA_bID-242.c
+C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(152,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+      C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(152,11):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+      C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(152,11):
+      отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+      C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(152,11):
+      этот аргумент используется в качестве размера буфера
+  
+C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(232,3): warning C4033: "sort_rascheska" должен возвращать значение
+C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\Kyrsovoi_proect_Pivovarova_AA_bID-242.c(263,1): warning C4715: sort_rascheska: значение возвращается не при всех путях выполнения
+  KP1sem.vcxproj -> C:\Users\TREIDCOMPUTERS\source\repos\KP1sem\x64\Debug\KP1sem.exe
